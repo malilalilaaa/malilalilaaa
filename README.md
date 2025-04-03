@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafwat Mahiya</h1>
 <h3 align="center">A passionate Mobile App Developer based in Bangladesh</h3>
-<img align="right" alt="Coding" width="400" scr="https://giphy.com/embed/L3bj6t3opdeNddYCyl" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-4-episode-2-rick-and-morty-L3bj6t3opdeNddYCyl"">
+<img align="right" alt="Coding" width="400" scr="https://giphy.com/embed/L3bj6t3opdeNddYCyl" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-4-episode-2-rick-and-morty-L3bj6t3opdeNddYCyl">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malilalilaaa&label=Profile%20views&color=0e75b6&style=flat" alt="malilalilaaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malilalilaaa" alt="malilalilaaa" /></a> </p>
