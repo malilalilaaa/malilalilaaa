@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shafwat Mahiya</h1>
 <h3 align="center">A passionate Mobile App Developer based in Bangladesh</h3>
-<img align="center" alt="Coding" width="400" src="https://github.com/malilalilaaa/malilalilaaa/blob/main/Season%204%20GIF%20by%20Rick%20and%20Morty.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malilalilaaa&label=Profile%20views&color=0e75b6&style=flat" alt="malilalilaaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malilalilaaa" alt="malilalilaaa" /></a> </p>
-
+<p align="left"><img src="https://github.com/malilalilaaa/malilalilaaa/blob/main/Season%204%20GIF%20by%20Rick%20and%20Morty.gif"/> </p>
 - 🔭 I’m currently working on **Veridicta**
 
 - 🌱 I’m currently learning **Kotlin, FastApi, Flask, Supervides Machine Learng and Deep Learing, Devops**
