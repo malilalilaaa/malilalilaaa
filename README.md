@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Veridicta**  
+- 🔭 I’m currently working on **Clear Architecture**  
 - 🌱 I’m currently learning **Kotlin, FastAPI, Flask, Supabase, Supervised ML, DevOps**  
 - 💬 Ask me about **Flutter, PHP, Android App Development**  
 - 📫 How to reach me **shafwatmahiya1210@gmail.com**  
